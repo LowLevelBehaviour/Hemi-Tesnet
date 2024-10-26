@@ -7,3 +7,11 @@
    - connect your **X/Twitter** account
    - klik **Jumpstart the Pilot Program**
    - go to **Dashboard** and complete the task
+
+2. #### hemi tesnet interaction
+   + Mining
+      - [web pop miner](https://pop-miner.hemi.xyz/manage)
+   + Bridge
+      - [app.hemi.xyz](https://app.hemi.xyz/en/tunnel/)
+   + Swap
+      - [swap.hemi.xyz](https://swap.hemi.xyz/)
